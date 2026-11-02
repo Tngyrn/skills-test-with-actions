@@ -33,7 +33,7 @@ _做得好！你已经成功添加了模板工作流! :tada:*_
 
 测试完成后，你会看到一个红色叉号 :x:（代表失败）或 :heavy_check_mark:（代表通过）。这时，你可以打开构建日志，查看每个步骤的执行结果。
 
-*能从日志中看出是哪个测试没通过吗？*
+_能从日志中看出是哪个测试没通过吗？_
 进入一个失败的构建，向下滚动日志，找到列出所有单元测试的部分。带有 “x” 的那一项就是出错的测试。
 
 <img alt="screenshot of a sample build log with the names of the tests blurred out" src=https://user-images.githubusercontent.com/16547949/65922013-e740a200-e3b1-11e9-8151-faf52c30201e.png width=400 />
